@@ -5,7 +5,7 @@
 ## 🔗 Link do projeto
 [Cubos Flix](https://carlpess.github.io/cubos-flix-app/)
 ## 
-Desafio executado durante o curso na Cubos Academy.
+Desafio executado durante o curso na Cubos Academy.<b>
 O objetivo do projeto era criar uma aplicação que simula a interface de um streaming, totalmente interativa, criada consumindo uma API.
 
 ## ⚙️  Executando
