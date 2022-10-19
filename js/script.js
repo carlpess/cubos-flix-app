@@ -38,7 +38,7 @@ const createMovieCard = (start, end) => {
         titleMovie.textContent = item.title;
 
         const img = document.createElement('img');
-        img.src = "../assets/estrela.svg"
+        img.src = "https://raw.githubusercontent.com/carlpess/cubos-flix-app/master/assets/estrela.svg"
         img.alt = "Estrela"
 
         const ratingMovie = document.createElement('span');
@@ -68,7 +68,7 @@ const createHighlightMovie = () => {
     highlightTitle.textContent = geralHL.title;
 
     const highlightRating = document.querySelector('.highlight__rating');
-    highlightRating.textContent = (geralHL.vote_average).toFixed(2);
+    highlightRating.textContent = (geralHL.vote_average).toFixed(1);
 
     const highlightGenres = document.querySelector('.highlight__genres');
     const genresNames = []

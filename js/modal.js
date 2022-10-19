@@ -15,7 +15,7 @@ const createModal = async (idMovie) => {
     modalDescription.textContent = body.overview;
 
     const modalAverage = document.querySelector('.modal__average');
-    modalAverage.textContent = (body.vote_average).toFixed(2);
+    modalAverage.textContent = (body.vote_average).toFixed(1);
 
 
     body.genres.forEach(genre => {
