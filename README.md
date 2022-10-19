@@ -5,15 +5,19 @@
 ## 🔗 Link do projeto
 [Cubos Flix](https://carlpess.github.io/cubos-flix-app/)
 ## 
-Desafio executado durante o curso na Cubos Academy.
+Desafio executado durante a segunda unidade do curso na Cubos Academy.
+
 O objetivo do projeto era criar uma aplicação que simula a interface de um streaming, totalmente interativa, criada consumindo uma API.
 
 ## ⚙️  Executando
 
- Na página da aplicação temos uma listagem dos últimos filmes em destaque, clicando em um filme específico é possível visualizar os detalhes.
- Uma barra de pesquisa funcional onde é possível buscar um filme desejado.
- Logo abaixo temos o highlight, se clicar no mesmo será redirecionado para o trailer do filme em highlight.
- Também existe a função de troca de tema da aplicação, entre claro ou escuro.
+Na página da aplicação temos uma listagem dos últimos filmes em destaque, clicando em um filme específico é possível visualizar os detalhes.
+
+Uma barra de pesquisa funcional onde é possível buscar um filme desejado.
+
+Logo abaixo temos o highlight, se clicar no mesmo será redirecionado para o trailer do filme em highlight.
+
+Também existe a função de troca de tema da aplicação, entre claro ou escuro.
 
 ## 🛠️  Construído com
 
