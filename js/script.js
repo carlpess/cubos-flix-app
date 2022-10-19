@@ -38,8 +38,8 @@ const createMovieCard = (start, end) => {
         titleMovie.textContent = item.title;
 
         const img = document.createElement('img');
-        img.src = "https://raw.githubusercontent.com/carlpess/cubos-flix-app/master/assets/estrela.svg"
-        img.alt = "Estrela"
+        img.src = "https://raw.githubusercontent.com/carlpess/cubos-flix-app/master/assets/estrela.svg";
+        img.alt = "Estrela";
 
         const ratingMovie = document.createElement('span');
         ratingMovie.classList.add('movie__rating');
